@@ -1,5 +1,3 @@
-
-[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)]
 <h1 align="center">Hi 👋, I'm Suraiya Bilkis</h1>
 <h3 align="center">Passionate Computer Science Student</h3>
 <!-- < img align="right" alt="Coding" width="400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s"> -->
